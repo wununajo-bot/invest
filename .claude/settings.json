@@ -1,0 +1,22 @@
+{
+  "extraKnownMarketplaces": {
+    "caveman": { "source": { "source": "github", "repo": "JuliusBrussee/caveman" } },
+    "brag": { "source": { "source": "github", "repo": "latent-spaces/brag" } },
+    "claude-video": { "source": { "source": "github", "repo": "bradautomates/claude-video" } },
+    "karpathy-skills": { "source": { "source": "github", "repo": "multica-ai/andrej-karpathy-skills" } },
+    "openai-codex": { "source": { "source": "github", "repo": "openai/codex-plugin-cc" } },
+    "claude-hud": { "source": { "source": "github", "repo": "jarrodwatts/claude-hud" } },
+    "heydamir": { "source": { "source": "github", "repo": "heydamir/unslop" } },
+    "claude-plugins-official": { "source": { "source": "github", "repo": "anthropics/claude-plugins-official" } }
+  },
+  "enabledPlugins": {
+    "caveman@caveman": true,
+    "brag@brag": true,
+    "watch@claude-video": true,
+    "superpowers@claude-plugins-official": true,
+    "andrej-karpathy-skills@karpathy-skills": true,
+    "codex@openai-codex": true,
+    "claude-hud@claude-hud": true,
+    "unslop@heydamir": true
+  }
+}
